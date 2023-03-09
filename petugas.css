@@ -1,0 +1,45 @@
+footer {
+    background-color: #c9aaa6;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(255, 255, 255);
+    position:relative;
+    width: 100%;
+    bottom: 0;
+    font-family:'poppins', sans-serif;
+}
+.call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card1 {
+    background-image: url(petugas1.png);
+}
+
+.card2 {
+    background-image: url(petugas2.png);
+}
+
+.card3 {
+    background-image: url(petugas1.png);
+}
+
+.card4 {
+    background-image: url(petugas2.png);
+}

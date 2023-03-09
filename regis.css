@@ -1,0 +1,40 @@
+header {
+    background-color:#c9aaa6;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'poppins', sans-serif;
+    width: 100%;
+    text-align: center;
+}
+
+nav {
+    background-color:#edecf2;
+    padding-left: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'poppins', sans-serif;
+    color: black;
+}
+
+footer {
+    background-color: #c9aaa6;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(255, 255, 255);
+    position:relative;
+    width: 100%;
+    bottom: 0;
+    font-family:'poppins', sans-serif;
+}
